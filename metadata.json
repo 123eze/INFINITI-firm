@@ -1,0 +1,6 @@
+{
+  "name": "INFINITI firm — Premier Fan-to-Artist Liquid Glass Experience",
+  "description": "Futuristic fan-to-artist connection platform featuring liquid glassmorphism, 3D tilt interactive profile cards, dynamic neon aura, and live fluid background.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
